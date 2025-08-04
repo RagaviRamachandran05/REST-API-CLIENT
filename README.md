@@ -58,3 +58,5 @@ Backend communication in microservices
 Mobile or web apps fetching or sending data to a remote server
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c695b49a-9340-4088-9733-e49432fb8784)
